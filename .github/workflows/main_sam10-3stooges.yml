@@ -63,4 +63,4 @@ jobs:
           app-name: 'sam10-3stooges'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1AAE46AA24954AA0B8DC7AF2451974C2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A8933C4C7E884C2FB42B6B5DD2FAF28C }}
